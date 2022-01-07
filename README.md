@@ -1,7 +1,8 @@
 # alkemyproject
 
 Base datos mysql usando xampp
-  -archivo en carpeta base_datos
+  -archivo de base de datos
+  -- driver:  https://drive.google.com/drive/folders/1Uke5YgTH-bQGlxoyEDna6uXEpmZRvkuy?usp=sharing
   -importar.
   
 Login
